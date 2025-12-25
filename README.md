@@ -12,86 +12,64 @@
 ## Часть 1. Продажа акций
 
 <div class="step-block">
-<h3 class="step-title">Шаг 1. Откройте брокерский счёт и нажмите «Инвестировать»</h3>
-
-
-<img class="step-img" src="assets/images/1.jpg'" alt="Шаг 1" />
+  <h3 class="step-title">Шаг 1. Откройте брокерский счёт и нажмите «Инвестировать»</h3>
+  <img class="step-img" src="assets/images/1.jpg" alt="Шаг 1" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 2. Выберите «Акции»</h3>
-
-
-<img class="step-img" src="assets/images/2.jpg'" alt="Шаг 2" />
+  <h3 class="step-title">Шаг 2. Выберите «Акции»</h3>
+  <img class="step-img" src="assets/images/2.jpg" alt="Шаг 2" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 3. Нажмите на поиск</h3>
-
-
-<img class="step-img" src="assets/images/3.jpg'" alt="Шаг 3" />
+  <h3 class="step-title">Шаг 3. Нажмите на поиск</h3>
+  <img class="step-img" src="assets/images/3.jpg" alt="Шаг 3" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 4. Введите в поиске «ВТБ» и выберите акцию</h3>
-
-
-<img class="step-img" src="assets/images/4.jpg'" alt="Шаг 4" />
+  <h3 class="step-title">Шаг 4. Введите в поиске «ВТБ» и выберите акцию</h3>
+  <img class="step-img" src="assets/images/4.jpg" alt="Шаг 4" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 5. Дождитесь загрузки страницы инвестиций</h3>
-
-
-<img class="step-img" src="assets/images/6.jpg'" alt="Шаг 6" />
+  <h3 class="step-title">Шаг 5. Дождитесь загрузки страницы инвестиций</h3>
+  <img class="step-img" src="assets/images/6.jpg" alt="Шаг 6" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 6. Выпустите электронный сертификат (если требуется)</h3>
-
-
-<p>Если сертификат выпускался ранее, этот шаг появляться не будет.</p>
-
-<img class="step-img" src="assets/images/7.jpg'" alt="Шаг 7" />
+  <h3 class="step-title">Шаг 6. Выпустите электронный сертификат (если требуется)</h3>
+  <p>Если сертификат выпускался ранее, этот шаг появляться не будет.</p>
+<img class="step-img" src="assets/images/7.jpg" alt="Шаг 7" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 7. Подтвердите сертификат кодом из СМС</h3>
-
-
-<img class="step-img" src="assets/images/8.jpg'" alt="Шаг 8" />
+  <h3 class="step-title">Шаг 7. Подтвердите сертификат кодом из СМС</h3>
+  <img class="step-img" src="assets/images/8.jpg" alt="Шаг 8" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 8. Нажмите «Продать»</h3>
-
-
-<img class="step-img" src="assets/images/10.jpg'" alt="Шаг 10" />
+  <h3 class="step-title">Шаг 8. Нажмите «Продать»</h3>
+  <img class="step-img" src="assets/images/10.jpg" alt="Шаг 10" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 9. Тип заявки — «Рыночная»</h3>
-
-
-<img class="step-img" src="assets/images/10.jpg'" alt="Шаг 10" />
+  <h3 class="step-title">Шаг 9. Тип заявки — «Рыночная»</h3>
+  <img class="step-img" src="assets/images/10.jpg" alt="Шаг 10" />
 </div>
 
 
 <div class="step-block">
-<h3 class="step-title">Шаг 10. Укажите количество из строки «В портфеле» и подтвердите продажу</h3>
-
-
-<p>Продажа происходит <b>моментально</b>.</p>
-
-<img class="step-img" src="assets/images/11.jpg'" alt="Шаг 11" />
+  <h3 class="step-title">Шаг 10. Укажите количество из строки «В портфеле» и подтвердите продажу</h3>
+  <p>Продажа происходит <b>моментально</b>.</p>
+<img class="step-img" src="assets/images/11.jpg" alt="Шаг 11" />
 </div>
 
 
@@ -101,14 +79,16 @@
 После продажи необходимо **сразу купить эти же акции** на сумму **от 1001 ₽**.
 
 <div class="step-block">
-<h3 class="step-title">Шаги покупки</h3>
-
-1. Нажмите **«Купить»**  
-2. Тип заявки — **«Рыночная»**  
-3. Увеличьте количество кнопкой **«+»**  
-4. Проверьте сумму (должна быть **более 1000 ₽**)  
-5. Убедитесь, что покупка отобразилась в приложении
+  <h3 class="step-title">Шаги покупки</h3>
+  <ol>
+    <li>Нажмите <b>«Купить»</b></li>
+    <li>Тип заявки — <b>«Рыночная»</b></li>
+    <li>Увеличьте количество кнопкой <b>«+»</b></li>
+    <li>Проверьте сумму (должна быть <b>более 1000 ₽</b>)</li>
+    <li>Убедитесь, что покупка отобразилась в приложении</li>
+  </ol>
 </div>
+
 
 ---
 
